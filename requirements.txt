@@ -1,0 +1,13 @@
+dronekit==2.9.2
+dronekit-sitl==3.3.0
+future==1.0.0
+lxml==5.4.0
+MAVProxy==1.8.46
+monotonic==1.6
+numpy==1.24.4
+psutil==7.0.0
+pymavlink==2.4.8
+pynmeagps==1.0.42
+pyserial==3.5
+PyYAML==6.0.2
+six==1.17.0
